@@ -1,0 +1,30 @@
+{
+  "name": "empty-standby-list",
+  "version": "1.0.0",
+  "description": "Free up memory for Windows",
+  "main": "index.js",
+  "dependencies": {
+    "spawn-as-admin": "^0.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vandeurenglenn/node-empty-standby-list.git"
+  },
+  "keywords": [
+    "free",
+    "memory",
+    "windows",
+    "ram",
+    "standbylist"
+  ],
+  "author": "Glenn Vandeuren <vandeurenglenn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vandeurenglenn/node-empty-standby-list/issues"
+  },
+  "homepage": "https://github.com/vandeurenglenn/node-empty-standby-list#readme"
+}
